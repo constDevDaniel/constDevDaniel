@@ -16,44 +16,50 @@
  
 <h3> Languages and Tools:</h3>
  
-<a href="https://code.visualstudio.com/" title="Visual Studio Code">
-    <img align="left" width="40px"src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg"/></a>
     
 <a href="https://html.spec.whatwg.org/" title="HTML5">
-    <img align="left" width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+    <img align="left" width="40px"src="./src/icons/HTML5.svg"/>
 </a>
     
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3">
-    <img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+    <img align="left" alt="CSS3" width="40px" src="./src/icons/CSS3.svg"/>
 </a>
 
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
-    <img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+    <img align="left" alt="JavaScript" width="40px" src="./src/icons/javaScript.svg"/>
 </a>
 
 
 <a href="https://nodejs.dev/en/" title="NodeJS">
-    <img align="left" alt="NodeJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+    <img align="left" alt="NodeJS" width="40px" src="./src/icons/nodeJS.svg"/>
 </a>
 
+<a href="https://axios-http.com/" title="Axios">
+    <img align="left" alt="Axios" width="40px" src="./src/icons/axios.svg"/>
+</a>
 
 <a href="https://expressjs.com/" title="ExpressJS">
-    <img align="left" alt="ExpressJS" width="40px" src="https://raw.githubusercontent.com/CyrisXD/CyrisXD/master/assets/ExpressJS.png"/>
+    <img align="left" alt="ExpressJS" width="40px" src="./src/icons/expressJS.svg"/>
 </a>
 
 
 <a href="https://www.mysql.com/" title="MySQL">
-    <img align="left" alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> 
+    <img align="left" alt="MySQL" width="40px" src="./src/icons/mySql.svg"/> 
 </a>
 
-
-<a href="" title="">
+<a href="https://www.postgresql.org/" title="PostgreSql">
+    <img align="left" alt="Postgre" width="40px" src="./src/icons/postgreSql.svg"/>
 </a>
 
-<a href="" title="">
+<a href="https://www.npmjs.com/" title="npm">
+    <img align="left" alt="npm" width="40px" src="./src/icons/npm.svg"/>
 </a>
-    
+
+<a href="https://code.visualstudio.com/" title="Visual Studio Code">
+    <img align="left" width="40px"src="./src/icons/vsCode.svg"/>
+</a>
+
 <br><br>
 <hr>
 
