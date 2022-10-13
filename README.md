@@ -1,6 +1,7 @@
 <div>
-<img width="15%" align="left" src="https://custom-icon-badges.demolab.com/badge/S%C3%A3o%20Paulo-Brazil-blue?style=for-the-badge&logo=location&logoColor=white">
-<img width="10%" align="right" src="https://komarev.com/ghpvc/?username=your-constDevDaniel&label=Visitors&style=for-the-badge"/><br><br>
+    <img width="15%" align="left" src="https://custom-icon-badges.demolab.com/badge/S%C3%A3o%20Paulo-Brazil-blue?style=for-the-badge&logo=location&logoColor=white">
+    <img width="10%" align="right" src="https://komarev.com/ghpvc/?username=your-constDevDaniel&label=Visitors&style=for-the-badge"/>
+    <br><br>
 </div>
     
 <p align="center">
@@ -10,20 +11,50 @@
 <div align="center">
     <p>Moving towards front-end development 👨‍💻🚀</p>
 </div>
-<br>
 
+<br>
  
- <h3> Languages and Tools:</h3>
- <p>
-    <img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<h3> Languages and Tools:</h3>
+ 
+<a href="https://code.visualstudio.com/" title="Visual Studio Code">
+    <img align="left" width="40px"src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg"/></a>
+    
+<a href="https://html.spec.whatwg.org/" title="HTML5">
+    <img align="left" width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+</a>
+    
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3">
     <img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-    <img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-    <img align="left" alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-    <img align="left" alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-</p>
+</a>
 
-<br>
-<br>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
+    <img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+</a>
+
+
+<a href="https://nodejs.dev/en/" title="NodeJS">
+    <img align="left" alt="NodeJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+</a>
+
+
+<a href="https://expressjs.com/" title="ExpressJS">
+    <img align="left" alt="ExpressJS" width="40px" src="https://raw.githubusercontent.com/CyrisXD/CyrisXD/master/assets/ExpressJS.png"/>
+</a>
+
+
+<a href="https://www.mysql.com/" title="MySQL">
+    <img align="left" alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> 
+</a>
+
+
+<a href="" title="">
+</a>
+
+<a href="" title="">
+</a>
+    
+<br><br>
 <hr>
 
 <h3>Conect with me on:</h3>
