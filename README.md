@@ -5,18 +5,25 @@
 </div>
     
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?                                        font=Lato&size=40&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=630&lines=Hello+welcome%2C+I+am+Daniel+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+front-end+developer+from+brazil" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?                                        font=Lato&size=40&duration=3000&pause=1000&color=blue&center=true&vCenter=true&width=630&lines=Hello+welcome%2C+I+am+Daniel+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+front-end+developer+from+brazil" alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
-    <p>Moving towards front-end development 👨‍💻🚀</p>
+    <h3>Moving towards front-end development 👨‍💻🚀</h3>
 </div>
 
 <br>
+<br>
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=constDevDaniel&bg_color=000&text_color=fff&border_color=fff&title_color=blue&line_height=20" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=constDevDaniel&hide=contribs,prs&show_icons=true&bg_color=000&text_color=fff&border_color=fff&icon_color=blue&card_width=390&line_height=40" />
+</div>
+
+<br>
+<br>
  
 <h3> Languages and Tools:</h3>
- 
-    
 <a href="https://html.spec.whatwg.org/" title="HTML5">
     <img align="left" width="40px"src="./src/icons/HTML5.svg"/>
 </a>
@@ -25,11 +32,9 @@
     <img align="left" alt="CSS3" width="40px" src="./src/icons/CSS3.svg"/>
 </a>
 
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
     <img align="left" alt="JavaScript" width="40px" src="./src/icons/javaScript.svg"/>
 </a>
-
 
 <a href="https://nodejs.dev/en/" title="NodeJS">
     <img align="left" alt="NodeJS" width="40px" src="./src/icons/nodeJS.svg"/>
@@ -60,7 +65,8 @@
     <img align="left" width="40px"src="./src/icons/vsCode.svg"/>
 </a>
 
-<br><br>
+<br>
+<br>
 <hr>
 
 <h3>Conect with me on:</h3>
