@@ -1,85 +1,123 @@
-<div>
-    <img width="15%" align="left" src="https://custom-icon-badges.demolab.com/badge/S%C3%A3o%20Paulo-Brazil-blue?style=for-the-badge&logo=location&logoColor=white">
-    <img width="10%" align="right" src="https://komarev.com/ghpvc/?username=your-constDevDaniel&label=Visitors&style=for-the-badge"/>
-    <br><br>
-</div>
-    
+<h1 align="center">Olá! 👋 Eu sou Daniel Azoulay</h1>
+
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?                                        font=Lato&size=40&duration=3000&pause=1000&color=blue&center=true&vCenter=true&width=630&lines=Hello+welcome%2C+I+am+Daniel+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+front-end+developer+from+brazil" alt="Typing SVG" /></a>
+  <b>Front-End Engineer | React | TypeScript | Node.js</b>
 </p>
 
-<div align="center">
-    <h3>Moving towards front-end development 👨‍💻🚀</h3>
-</div>
-
-<br>
-<br>
-
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=constDevDaniel&bg_color=000&text_color=fff&border_color=fff&title_color=blue&line_height=20" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=constDevDaniel&hide=contribs,prs&show_icons=true&bg_color=000&text_color=fff&border_color=fff&icon_color=blue&card_width=390&line_height=40" />
-</div>
-
-<br>
-<br>
- 
-<h3> Languages and Tools:</h3>
-<a href="https://html.spec.whatwg.org/" title="HTML5">
-    <img align="left" width="40px"src="./src/icons/HTML5.svg"/>
-</a>
-    
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3">
-    <img align="left" alt="CSS3" width="40px" src="./src/icons/CSS3.svg"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
-    <img align="left" alt="JavaScript" width="40px" src="./src/icons/javaScript.svg"/>
-</a>
-
-<a href="https://nodejs.dev/en/" title="NodeJS">
-    <img align="left" alt="NodeJS" width="40px" src="./src/icons/nodeJS.svg"/>
-</a>
-
-<a href="https://axios-http.com/" title="Axios">
-    <img align="left" alt="Axios" width="40px" src="./src/icons/axios.svg"/>
-</a>
-
-<a href="https://expressjs.com/" title="ExpressJS">
-    <img align="left" alt="ExpressJS" width="40px" src="./src/icons/expressJS.svg"/>
-</a>
-
-
-<a href="https://www.mysql.com/" title="MySQL">
-    <img align="left" alt="MySQL" width="40px" src="./src/icons/mySql.svg"/> 
-</a>
-
-<a href="https://www.postgresql.org/" title="PostgreSql">
-    <img align="left" alt="Postgre" width="40px" src="./src/icons/postgreSql.svg"/>
-</a>
-
-<a href="https://www.npmjs.com/" title="npm">
-    <img align="left" alt="npm" width="40px" src="./src/icons/npm.svg"/>
-</a>
-
-<a href="https://code.visualstudio.com/" title="Visual Studio Code">
-    <img align="left" width="40px"src="./src/icons/vsCode.svg"/>
-</a>
-
-<br>
-<br>
-<hr>
-
-<h3>Conect with me on:</h3>
-<p>
-    <a href="https://www.linkedin.com/in/constdevdaniel/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>  
-    <a href="mailto:danielazoulay2010@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>        
-    </a>
-    <a href="https://t.me/DanielAzoulay">
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>        
-    </a>
+<p align="center">
+  Apaixonado por desenvolver aplicações modernas, escaláveis e de alta performance utilizando tecnologias do ecossistema JavaScript.
 </p>
 
-<hr>
+---
+
+## 🚀 Sobre mim
+
+Sou Engenheiro de Software com foco em desenvolvimento Front-End e experiência na construção de aplicações web utilizando React, TypeScript e Node.js.
+
+Tenho experiência no desenvolvimento de interfaces modernas, arquitetura de componentes reutilizáveis, integração com APIs REST, gerenciamento de estado, validação de dados e implantação de aplicações em nuvem.
+
+Atualmente trabalho como **Front-End Engineer** na **Addebitare**, desenvolvendo soluções escaláveis, participando da definição técnica de funcionalidades e colaborando em todas as etapas do desenvolvimento de software.
+
+---
+
+## 💻 Tecnologias
+
+### Front-End
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
+
+### Bibliotecas
+
+- React Router
+- TanStack Router
+- TanStack Query
+- Axios
+- Zod
+- CASL
+- Shadcn UI
+
+### Back-End
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+
+- APIs REST
+- Express (conhecimento)
+- NestJS (estudando)
+
+### Banco de Dados
+
+- PostgreSQL
+- Cloud SQL
+
+### Cloud
+
+- Google Cloud Platform
+- Cloud Run
+
+### Ferramentas
+
+- Git
+- GitHub
+- Jira
+- CI/CD
+- Scrum
+- Kanban
+
+---
+
+## 📈 O que gosto de desenvolver
+
+- Interfaces modernas
+- Componentes reutilizáveis
+- Design Systems
+- Arquitetura Front-End
+- Performance
+- Integração com APIs
+- Aplicações escaláveis
+- Experiência do usuário
+
+---
+
+## 🌱 Atualmente estudando
+
+- NestJS
+- Arquitetura de Software
+- Clean Architecture
+- Design Patterns
+- Testes
+- Microsserviços
+
+---
+
+## 📫 Contato
+
+📍 São Paulo - SP
+
+✉️ **danielazoulay2010@gmail.com**
+
+💼 LinkedIn
+
+https://linkedin.com/in/constdevdaniel
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## ⚡ Objetivo
+
+Busco participar de projetos desafiadores onde eu possa desenvolver soluções de qualidade, aprender continuamente e contribuir para a evolução técnica da equipe e do produto.
