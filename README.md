@@ -1,7 +1,7 @@
 <h1 align="center">Olá! 👋 Eu sou Daniel Azoulay</h1>
 
 <p align="center">
-  <b>Front-End Engineer | React | TypeScript | Node.js</b>
+  <b>Fullstack Engineer | React | TypeScript | Node.js</b>
 </p>
 
 <p align="center">
@@ -12,11 +12,11 @@
 
 ## 🚀 Sobre mim
 
-Sou Engenheiro de Software com foco em desenvolvimento Front-End e experiência na construção de aplicações web utilizando React, TypeScript e Node.js.
+Sou Engenheiro de Software Fullstack com experiência na construção de aplicações web utilizando React, TypeScript e Node.js.
 
 Tenho experiência no desenvolvimento de interfaces modernas, arquitetura de componentes reutilizáveis, integração com APIs REST, gerenciamento de estado, validação de dados e implantação de aplicações em nuvem.
 
-Atualmente trabalho como **Front-End Engineer** na **Addebitare**, desenvolvendo soluções escaláveis, participando da definição técnica de funcionalidades e colaborando em todas as etapas do desenvolvimento de software.
+Atualmente trabalho como **Fullstack Engineer** na **Addebitare**, desenvolvendo soluções escaláveis, participando da definição técnica de funcionalidades e colaborando em todas as etapas do desenvolvimento de software.
 
 ---
 
@@ -31,7 +31,7 @@ Atualmente trabalho como **Front-End Engineer** na **Addebitare**, desenvolvendo
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
 
-### Bibliotecas
+### Tecnologias
 
 - React Router
 - TanStack Router
@@ -40,33 +40,20 @@ Atualmente trabalho como **Front-End Engineer** na **Addebitare**, desenvolvendo
 - Zod
 - CASL
 - Shadcn UI
-
-### Back-End
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-
-- APIs REST
-- Express (conhecimento)
-- NestJS (estudando)
-
-### Banco de Dados
-
-- PostgreSQL
-- Cloud SQL
-
-### Cloud
-
+- NestJS
+- Pub/Sub
+- Postgres
+- MongoDB
+- Express
 - Google Cloud Platform
 - Cloud Run
-
-### Ferramentas
-
 - Git
-- GitHub
+- Github
 - Jira
-- CI/CD
-- Scrum
-- Kanban
+- Github Actions
+- Docker
+- Testes
+
 
 ---
 
@@ -75,7 +62,6 @@ Atualmente trabalho como **Front-End Engineer** na **Addebitare**, desenvolvendo
 - Interfaces modernas
 - Componentes reutilizáveis
 - Design Systems
-- Arquitetura Front-End
 - Performance
 - Integração com APIs
 - Aplicações escaláveis
@@ -85,7 +71,6 @@ Atualmente trabalho como **Front-End Engineer** na **Addebitare**, desenvolvendo
 
 ## 🌱 Atualmente estudando
 
-- NestJS
 - Arquitetura de Software
 - Clean Architecture
 - Design Patterns
